@@ -3,7 +3,7 @@
 ## HOW TO RUN
 
 - Install terraform >= 1.43.0
-- run in your default dir `source <openstack_RC_file.sh>`
+- `source <openstack_RC_file.sh>`
 - create new ssh key pair
 - `cd /infrastructure`
 - check `vars.tf` and populate with your variables
