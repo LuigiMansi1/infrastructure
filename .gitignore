@@ -1,0 +1,14 @@
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+terraform.tfstate*
+.terraform.lock.hcl
+
+# Crash log files
+crash.log
+
+.venv
+.vault_password
+galaxy-it
